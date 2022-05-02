@@ -11,7 +11,7 @@
 ![Sql](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql)
 
 ### Follow Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](linkedin.com/in/qadriddin-odinaev-4924ba1b7)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/qadriddin-odinaev-4924ba1b7)
 
 ### Hi there 👋
 - 🔭 I’m currently working on PHP
