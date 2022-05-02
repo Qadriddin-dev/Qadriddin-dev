@@ -12,7 +12,6 @@
 
 ### Follow Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](linkedin.com/in/qadriddin-odinaev-4924ba1b7)
-[![Github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)](http://github.com/Qadriddin-dev)
 
 ### Hi there 👋
 - 🔭 I’m currently working on PHP
