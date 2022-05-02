@@ -1,6 +1,6 @@
 ![Header](https://github.com/Qadriddin-dev/Qadriddin-dev/blob/main/assets/code.png)
 
-About me
+## I'm a beginner Backend Developer. Work on Laravel
 
 Language and Tools
 
