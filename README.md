@@ -1,4 +1,4 @@
-[![Header](https://github.com/Qadriddin-dev/Qadriddin-dev/blob/main/assets/prolog.gif)]
+[![Header](https://github.com/Qadriddin-dev/Qadriddin-dev/blob/main/assets/code.png)]
 
 About me
 
